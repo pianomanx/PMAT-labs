@@ -1,6 +1,6 @@
 # Hypervisor & VMs
 
-[← Back to FAQ index](faq.md)
+[← Back to FAQ index](README.md)
 
 ---
 

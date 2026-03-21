@@ -1,6 +1,6 @@
 # PMRP certification
 
-[← Back to FAQ index](faq.md)
+[← Back to FAQ index](README.md)
 
 ---
 
@@ -59,4 +59,4 @@ Same exam, new name. See:
 
 ### Where is the exam report template?
 
-It should be provided when you start the exam. If not: [PMRP Report Template](PMRP_Report_Template.docx)
+It should be provided when you start the exam. If not, contact TCM Security for the official file. For general formatting reference, the PMAT course uses this Word template: [ReportTemplate.docx](../labs/5-3.ReportWriting/ReportTemplate.docx).
