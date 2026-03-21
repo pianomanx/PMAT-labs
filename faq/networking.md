@@ -48,7 +48,7 @@ sudo dhclient
 
 ### INetSim works for IPs but not for DNS requests
 
-🔺 This is the most common networking issues in this course. 🔺
+🔺 This is the most common type of networking issues in this course. 🔺
 
 Checklist:
 - INetSim config:  - DNS service is uncommented.
